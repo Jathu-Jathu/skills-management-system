@@ -344,7 +344,8 @@ const ProjectForm = () => {
           </button>
         </div>
       </form>
-
+   
+   <br/>
       <div className="form-help">
         <h4>💡 Tips for Project Creation</h4>
         <ul>

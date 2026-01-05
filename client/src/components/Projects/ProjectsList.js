@@ -110,7 +110,7 @@ const ProjectsList = () => {
       <div className="filters-container">
         <SearchBar 
           onSearch={setSearchTerm}
-          placeholder="Search projects by name or description..."
+          placeholder="      Search projects by name or description..."
         />
         
         <div className="filter-controls">

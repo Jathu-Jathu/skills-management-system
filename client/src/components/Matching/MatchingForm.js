@@ -80,7 +80,9 @@ const MatchingForm = () => {
     <div className="matching-container">
       <div className="matching-header">
         <h2><FaChartLine /> Smart Personnel Matching</h2>
+        <br/>
         <p>Find the best team members for your projects based on skills and requirements</p>
+        <br/>
       </div>
 
       <div className="matching-controls">

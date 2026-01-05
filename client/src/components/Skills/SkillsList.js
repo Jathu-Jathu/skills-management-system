@@ -99,7 +99,7 @@ const SkillsList = () => {
       <div className="filters-container">
         <SearchBar 
           onSearch={setSearchTerm}
-          placeholder="Search skills by name or description..."
+          placeholder="       Search skills by name or description..."
         />
         
         <div className="filter-controls">
@@ -131,8 +131,9 @@ const SkillsList = () => {
                   to={`/skills/${skill.id}/edit`}
                   className="btn btn-sm btn-info"
                 >
-                  <FaEdit />
+                  <FaEdit/>
                 </Link>
+                
                 <button
                   onClick={() => handleDelete(skill.id)}
                   className="btn btn-sm btn-danger"

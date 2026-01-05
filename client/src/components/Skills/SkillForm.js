@@ -178,7 +178,7 @@ const SkillForm = () => {
           </button>
         </div>
       </form>
-
+ <br/>
       <div className="form-help">
         <h4>💡 Tips for Skill Creation</h4>
         <ul>

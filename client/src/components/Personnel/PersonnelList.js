@@ -101,7 +101,7 @@ const PersonnelList = () => {
       <div className="filters-container">
         <SearchBar
           onSearch={setSearchTerm}
-          placeholder="Search by name, email, or role..."
+          placeholder="      Search by name, email, or role..."
         />
         
         <div className="filter-controls">
