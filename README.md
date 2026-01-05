@@ -46,3 +46,9 @@ A full-stack web application for consultancies and tech agencies to manage perso
 ```bash
 git clone <repository-url>
 cd skills-management-system
+
+
+
+## API Testing Screenshots
+All required API endpoints were tested using Postman.
+Screenshots are included in the `/screenshots` directory.
