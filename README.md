@@ -39,36 +39,3 @@ A full-stack web application for consultancies and tech agencies to manage perso
 1. Node.js (v16 or higher)
 2. MySQL (v8.0 or higher)
 3. Git
-
-## Installation
-
-### 1. Clone the Repository
-```bash
-git clone <repository-url>
-cd skills-management-system
-
-
-
-## API Testing Screenshots
-All required API endpoints were tested using Postman.
-Screenshots are included in the `/screenshots` directory.
-
-
-## Screenshots
-
-Here are some screenshots of the API tests using Postman:
-
-1. **Create Personnel**  
-   ![Create Personnel](screenshots/postman-create-personnel.png)
-
-2. **Get All Personnel**  
-   ![Get All Personnel](screenshots/postman-get-personnel.png)
-
-3. **Update Skill**  
-   ![Update Skill](screenshots/postman-update-skill.png)
-
-4. **Assign Skill to Personnel**  
-   ![Assign Skill](screenshots/postman-assign-skill.png)
-
-5. **Matching Algorithm**  
-   ![Matching Algorithm](screenshots/postman-matching-algorithm.png)
